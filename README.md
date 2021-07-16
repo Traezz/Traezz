@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Traezz
+- 👀 I’m interested in computer vision, machine learning, automation, and cloud computing.
+- 🌱 I’m currently learning ways to automate docker deployment
