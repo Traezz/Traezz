@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Traezz
 - 👀 I’m interested in computer vision, machine learning, automation, and cloud computing.
-- 🌱 I’m currently learning ways to automate docker deployment
+- I'm currently working on a fully customized ergonomic keyboard, and automating an early 1990's two-button Gaggia Coffee espresso machine.
